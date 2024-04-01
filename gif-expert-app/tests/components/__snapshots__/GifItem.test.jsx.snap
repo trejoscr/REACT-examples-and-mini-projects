@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas es <GifItem/> hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Super Mario"
+      src="https://www.lavanguardia.com/andro4all/hero/2023/05/super-mario-bros-la-pelicula.png"
+    />
+    <p>
+      Super Mario
+    </p>
+  </div>
+</div>
+`;
